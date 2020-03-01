@@ -1,4 +1,3 @@
-
 # ICS_12
 
-sdf
+Select assignments, projects, and summative for ICS4U1.
